@@ -39,6 +39,8 @@ module.exports = {
   buildModules: [
     // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
     '@nuxtjs/tailwindcss',
+    '@nuxtjs/axios',
+    '@nuxtjs/auth'
   ],
   /*
   ** Nuxt.js modules
