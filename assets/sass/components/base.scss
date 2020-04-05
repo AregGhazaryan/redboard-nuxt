@@ -1,0 +1,13 @@
+.fancy-red,
+footer,
+header {
+  background-color: rgb(255, 0, 54);
+}
+
+.fancy-btn {
+  background-color: rgb(255, 0, 54);
+
+  &:hover {
+    background-color: rgb(255, 0, 100);
+  }
+}

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,600&display=swap');
+
+button:focus {
+  border: 0;
+  outline: none;
+}
+
+* {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.brand {
+  font-family: 'Pacifico', cursive;
+}
