@@ -1,4 +1,4 @@
-# redboard
+# Redboard
 
 > My sublime Nuxt.js project
 
