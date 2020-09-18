@@ -1,5 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,600&display=swap');
+@font-face{
+  font-family: 'Quicksand';
+  src: url('../webfonts/quicksand.ttf')
+}
+
+@font-face{
+  font-family: 'Pacifico';
+  src: url('../webfonts/pacifico.ttf')
+}
 
 button:focus {
   border: 0;

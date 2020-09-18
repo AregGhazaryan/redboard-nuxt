@@ -1,5 +1,5 @@
 <template>
-<footer class="w-full min-h-20 flex justify-center text-white text-xs">
+<footer class="w-full min-h-20 flex justify-center text-white text-xs py-5">
   <div class="w-full p-3">
     <div class="flex flex-col justify-center px-16 sm:flex-row">
       <a href="" class="ml-3 mt-3 md:ml-10 sm:mt-3">
